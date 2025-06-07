@@ -70,7 +70,7 @@
   <div class="box">
     <h2>Contact Information</h2>
     <p><strong>Email:</strong> singhadityakumar7519@gmail.com</p>
-    <p><strong>Phone:</strong> <a href=https://wa.me/+918709407088 target="_blank">xxxxxxxxxx</a></p>
+    <p><strong>Phone:</strong> <a href="https://wa.me/+918709407088 target="_blank">xxxxxxxxxx</a></p>
     <p><strong>GitHub:</strong> <a href="https://github.com/aditya841241" target="_blank">xxxxxxxxxxxxxxxxx</a></p>
   </div>
 
